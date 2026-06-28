@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil ! | Welcome to my Space
 
 <p align="center">
-  <img src="https://capsule-render.vco.fun/api?type=waving&color=007ACC&height=220&section=header&text=Abdennacer%20Bousadra%20🚀&fontSize=45&animation=fadeIn&fontColor=ffffff" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=90&lines=Abdennacer+Bousadra;Développeur+Informatique+🚀;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
 </p>
 
 ---
