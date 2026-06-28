@@ -1,7 +1,9 @@
-# 👋 Bienvenue sur mon profil ! | Welcome to my Space
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=90&lines=Abdennacer+Bousadra;Développeur+Informatique+🚀;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
+  <samp>
+    <h1>🚀 Abdennacer Bousadra</h1>
+    <h3>👨‍💻 Développeur Informatique | Software Developer</h3>
+    <p>⚡ Bienvenue sur mon profil GitHub ! | Welcome to my Space ⚡</p>
+  </samp>
 </p>
 
 ---
@@ -38,11 +40,13 @@ Je suis **Abdennacer Bousadra**, un développeur informatique passionné basé �
 
 ---
 
-## 📈 Activité GitHub | GitHub Activity
+## 🎯 Objectifs de l'année | My Goals
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdennacer-Bousadra&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
-</p>
+| Objectif | Statut |
+| :--- | :---: |
+| 📚 Maîtriser de nouveaux frameworks (Django / React) | ⏳ En cours |
+| 💻 Créer 5 projets Open Source personnels | 🚀 En cours |
+| 🧠 Améliorer mes compétences en Algorithmie & OOP | ⚡ Continu |
 
 ---
 
